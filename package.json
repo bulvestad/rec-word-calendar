@@ -1,0 +1,26 @@
+{
+  "name": "rec-word-calendar",
+  "version": "1.0.0",
+  "description": "Rectangular word clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulvestad/rec-word-calendar.git"
+  },
+  "keywords": [
+    "podium",
+    "module",
+    "calendar",
+    "magic",
+    "mirror"
+  ],
+  "author": "@bulvestad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bulvestad/rec-word-calendar/issues"
+  },
+  "homepage": "https://github.com/bulvestad/rec-word-calendar#readme"
+}
