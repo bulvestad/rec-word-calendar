@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: #222222;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 60px;
+}
+
+.lit-true{
+    color: #dddddd;
+}
+
