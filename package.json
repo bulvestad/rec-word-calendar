@@ -25,6 +25,6 @@
   "homepage": "https://github.com/bulvestad/rec-word-calendar#readme",
   "dependencies": {
     "@podium/podlet": "^4.2.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
